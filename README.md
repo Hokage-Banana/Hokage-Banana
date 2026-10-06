@@ -4,7 +4,7 @@ Robotics engineer in Istanbul. I write the software that lets machines see, deci
 
 ### Now
 
-- **Asimov**, Istanbul Kültür University's robotics team: captain. Autonomous cars for Teknofest, ground vehicles and heavy-lift drones for Robolig.
+- **Asimov**, Istanbul Kültür University's robotics team: Programmer. Autonomous cars for Teknofest, ground vehicles and heavy-lift drones for Robolig.
 - **KLE Bilgi Teknolojileri**: full-stack developer, for an international client under NDA.
 - **Jamaah**: a prayer app built around your circle of friends. Expo, React Native, Firebase. In testing.
 - **QTE Trainer**: a browser game for quick-time-event reflexes, with ranked matchmaking. React, Supabase. Live at [qte-trainer.vercel.app](https://qte-trainer.vercel.app).
