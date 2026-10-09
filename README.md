@@ -26,6 +26,6 @@ Robotics engineer in Istanbul ([mohamadsawan.com](https://mohamadsawan.com)). I 
 
 ### Elsewhere
 
-[mohamadsawan.com](https://mohamadsawan.com) · [LinkedIn](https://linkedin.com/in/mohamad-sawan) · [mohamadsawan@mohamadsawan.com](mailto:mohamadsawan@mohamadsawan.com)
+[mohamadsawan.com](https://mohamadsawan.com) · [LinkedIn](https://www.linkedin.com/in/mohamad-sawan-a7ba77216) · [mohamadsawan@mohamadsawan.com](mailto:mohamadsawan@mohamadsawan.com)
 
 Most of my work is private: client work under NDA and team competition code. I'm opening repos one at a time as I clean them up.
