@@ -1,6 +1,6 @@
 # Mohamad Sawan
 
-Robotics engineer in Istanbul. I write the software that lets machines see, decide and move, and the web and mobile apps people use to run them. Computer Engineering at Istanbul Kültür University; building robots since I was fifteen.
+Robotics engineer in Istanbul ([mohamadsawan.com](https://mohamadsawan.com)). I write the software that lets machines see, decide and move, and the web and mobile apps people use to run them. Computer Engineering at Istanbul Kültür University; building robots since I was fifteen.
 
 ### Now
 
@@ -26,6 +26,6 @@ Robotics engineer in Istanbul. I write the software that lets machines see, deci
 
 ### Elsewhere
 
-[Portfolio](https://sawannn.vercel.app) · [LinkedIn](https://linkedin.com/in/mohamad-sawan) · mohamadsawan2005@gmail.com
+[mohamadsawan.com](https://mohamadsawan.com) · [LinkedIn](https://linkedin.com/in/mohamad-sawan) · [mohamadsawan@mohamadsawan.com](mailto:mohamadsawan@mohamadsawan.com)
 
 Most of my work is private: client work under NDA and team competition code. I'm opening repos one at a time as I clean them up.
